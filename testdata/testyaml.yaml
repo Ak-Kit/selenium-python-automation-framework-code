@@ -1,0 +1,12 @@
+---
+test1:
+ goingfrom: BOM
+ goingto: JFK
+ date: 24/02/2023
+ stops: 1 Stop
+test2:
+ goingfrom: MEL
+ goingto: JFK
+ date: 17/02/2023
+ stops: 2 Stop
+...
