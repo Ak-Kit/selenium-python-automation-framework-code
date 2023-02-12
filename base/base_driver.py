@@ -33,4 +33,5 @@ class BaseDriver:
         return element
 
 
-    #Some Lines from SDET1
+    def test_method(self):
+        print("Test Merge")
