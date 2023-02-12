@@ -33,5 +33,4 @@ class BaseDriver:
         return element
 
 
-    def test_method(self):
-        print("Test Merge")
+   
